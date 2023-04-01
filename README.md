@@ -1,1 +1,1 @@
-# TGO-Lab2
+# PTG-Lab2
